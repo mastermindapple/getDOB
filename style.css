@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(35,190,82);
+}
+#headPara{
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color:rgb(67,37,138);
+}
+#tnc{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(67,37,138); 
+}
+#name{
+    background-color:rgb(196,183,30);
+    border-radius: 10px;
+    color: rgb(216,10,102);
+    text-align: center;
+}
+#age{
+    background-color:rgb(196,183,30);
+    border-radius: 10px;
+    color: rgb(216,10,102);
+    text-align: center;
+}
+#submit{
+    background-color:rgb(196,183,30);
+    color: rgb(216,10,102);
+    border-radius: 10px;
+}
+#birthYear{
+    color: rgb(216,10,102);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+}
